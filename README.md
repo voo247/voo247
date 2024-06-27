@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+  
+  [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/20230795?size=200px)](https://solved.ac/profile/20230795)
+  
+</div>
+
 <!--
 **voo247/voo247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
