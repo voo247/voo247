@@ -1,4 +1,7 @@
-<h2 align="center">Hi there 👋</h2>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=𝐕𝐎𝐎𝟐𝟒𝟕&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Hi%20there%20👋&descAlignY=53&descAlign=65"/>
+  <!--𝕍𝕆𝕆𝟚𝟜𝟟-->
+</p>
 
 <!--
 <div align="center">
