@@ -1,10 +1,13 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
+<!--
 <div align="center">
   
-  [![solved.ac](https://solvedac-cards-starcea.paring.moe/profile/20230795?size=200px)](https://solved.ac/profile/20230795)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voo247&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voo247&show_icons=true&theme=radical)
   
 </div>
+-->
 
 <!--
 **voo247/voo247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
