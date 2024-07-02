@@ -3,13 +3,16 @@
   <!--𝕍𝕆𝕆𝟚𝟜𝟟-->
 </p>
 
-<!--
+<br>
+
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voo247&layout=compact)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voo247&show_icons=true&theme=radical)
-  
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github)
+    
 </div>
+
+<!--
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voo247&layout=compact)
 -->
 
 <!--
