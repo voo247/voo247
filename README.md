@@ -1,18 +1,20 @@
+<!--HEADER-->
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=𝐕𝐎𝐎𝟐𝟒𝟕&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Hi%20there%20👋&descAlignY=53&descAlign=65"/>
-  <!--𝕍𝕆𝕆𝟚𝟜𝟟-->
+    <!--𝕍𝕆𝕆𝟚𝟜𝟟-->
 </p>
 
 <br>
 
+<!--MAIN-->
 <div align="center">
-    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github)
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github" height=150/>
+    <a href="https://wakatime.com/@voo247"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@voo247&custom_title=𝗪𝗮𝗸𝗮𝗧𝗶𝗺𝗲%20𝗦𝗧𝗔𝗧𝗦&layout=compact" height=80/></a>
 </div>
 
 <!--
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=voo247&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@voo247&custom_title=𝗪𝗮𝗸𝗮𝗧𝗶𝗺𝗲%20𝗦𝗧𝗔𝗧𝗦&layout=compact)](https://wakatime.com/@voo247)
 -->
 
 <!--
