@@ -8,8 +8,8 @@
 
 <!--MAIN-->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github" height=150/>
-    <a href="https://wakatime.com/@voo247"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@voo247&custom_title=𝗪𝗮𝗸𝗮𝗧𝗶𝗺𝗲%20𝗦𝗧𝗔𝗧𝗦&layout=compact" height=80/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=voo247&custom_title=𝗩𝗢𝗢𝟮𝟰𝟳'𝘀%20𝗚𝗶𝘁𝗛𝘂𝗯%20𝗦𝗧𝗔𝗧𝗦&hide=stars&show_icons=true&rank_icon=github"/>
+    <a href="https://wakatime.com/@voo247"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@voo247&custom_title=𝗪𝗮𝗸𝗮𝗧𝗶𝗺𝗲%20𝗦𝗧𝗔𝗧𝗦&layout=compact"/></a>
 </div>
 
 <!--
